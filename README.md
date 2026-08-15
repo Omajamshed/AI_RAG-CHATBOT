@@ -38,6 +38,8 @@ The project has two entry points:
 - ⚡ **Simple, modular codebase** — each RAG stage lives in its own file under `src/`
 
 ---
+## Video Recording 
+https://drive.google.com/file/d/1Y_Kf3hwKIgzvleMhGUjxprOyeWhHWkn8/view?usp=sharing
 
 ## 🧭 Workflow Diagram
 

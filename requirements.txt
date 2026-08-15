@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+chromadb
+openai
+pypdf
+python-docx
+pandas
+openpyxl
+streamlit
+python-dotenv
+langchain-google-genai
+unstructured
